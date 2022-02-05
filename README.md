@@ -1,2 +1,4 @@
 ### books
-project to learning Django Rest Framework
+Project to learning Django Rest Framework
+- ###### tests included
+- ###### psql
